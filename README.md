@@ -1,1 +1,1 @@
-# php
+# Atividades realizadas para a disciplina de Programação Web III durante o curso Técnico em Desenvolvimento de Sistemas.
